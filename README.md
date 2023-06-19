@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huy</h1>
-<h3 align="center">A cutie dev from UIT-VNUHCM</h3>
+
 
 
 - 📝 I regularly write articles on [myblog](myblog)
